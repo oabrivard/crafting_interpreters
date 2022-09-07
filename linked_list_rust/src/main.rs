@@ -3,6 +3,8 @@ use crate::second::List;
 mod first;
 mod second;
 mod third;
+mod fourth;
+mod double;
 
 fn main() {
     let mut list = List::new();
